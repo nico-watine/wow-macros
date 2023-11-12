@@ -1,0 +1,3 @@
+#showtooltip
+/equip [mod:alt] Shroud of Cooperation; [mod:shift] Wrap of Unity; Cloak of Coordination;
+/use [mod:alt] Shroud of Cooperation; [mod:shift] Wrap of Unity; Cloak of Coordination

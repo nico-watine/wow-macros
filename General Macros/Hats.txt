@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift] Chef's Hat;Safari Hat

@@ -1,0 +1,3 @@
+#showtooltip
+/cast [nomod] Cooking
+/summonpet [mod:shift] Lil' Ragnaros
