@@ -1,0 +1,1 @@
+/run if SecureCmdOptionParse"[mod:shift]"then ShowGarrisonLandingPage(2) elseif SecureCmdOptionParse"[mod:alt]"then ShowGarrisonLandingPage(3)else ShowGarrisonLandingPage(9)end
