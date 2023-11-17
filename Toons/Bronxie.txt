@@ -1,2 +1,16 @@
 #showtooltip
 /cast [mod:cmd] Swipe; [mod:shift] Rake; Shred
+
+
+
+
+#showtooltip
+/cast [mod:cmd] Tiger's Fury; [mod:shift] Dash; Ferocious Bite
+
+
+
+
+
+#showtooltip [nomod] Mechanized Lumber Extractor; [mod:shift] Mount Up;[mod:cmd] Prowl
+/cast [nomod] Mechanized Lumber Extractor; [mod:cmd] Prowl
+/run if SecureCmdOptionParse"[mod:shift]"then C_MountJournal.SummonByID(0)end
